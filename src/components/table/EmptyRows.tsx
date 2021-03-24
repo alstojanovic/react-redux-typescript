@@ -18,7 +18,7 @@ export const EmptyRows = () => {
     return (
         <TableRow style={{ height: 61 * emptyRows }}>
             <TableCell colSpan={9} align="center">
-                No Deposits Yet
+                {emptyRows === rowsPerPage ? 'No Deposits Yet' : null}
             </TableCell>
         </TableRow>
     );
