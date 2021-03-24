@@ -59,3 +59,29 @@ _What you will learn in this project:_
 <br/>
 
 Thanks for reading and happy coding!
+
+<br/>
+<hr/>
+<br/>
+
+Some screenshots from the app:
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/Signup-min.png)
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/EditDeposit-min.png)
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/DepositUpdated-min.png)
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/UserProfile-min.png)
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/Login-min.png)
