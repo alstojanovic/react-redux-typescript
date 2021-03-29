@@ -3,7 +3,7 @@
 
 # React + Redux + Typescript ( The recommended way )
 
-_This project will help you learn how to build a modern front end application with React, Redux and Typescript. It's purpuose is to help anyone starting their software development journey or Junior developers sail into the Medior seas._
+_This project will help you learn how to build a modern front end application with React, Redux and Typescript. It's purpose is to help anyone starting their software development journey or Junior developers sail into the Medior seas._
 
 _What you will learn in this project:_
 
