@@ -72,6 +72,15 @@ Some screenshots from the app:
 
 <br/>
 
+![TrackMyDeposits ](./screenshots/AddItem-min.png)
+
+<br/>
+
+![TrackMyDeposits ](./screenshots/DeleteItem-min.png)
+
+
+<br/>
+
 ![TrackMyDeposits ](./screenshots/EditDeposit-min.png)
 
 <br/>
